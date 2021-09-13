@@ -7,7 +7,7 @@ description: >-
   you need to find a specific job in order to update it.
 
   This guide will walk you through an example of just that, where I use polymorphic associations to add record type and ID to the delayed jobs.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blake-connally-435076-unsplash.jpg
 tags:
   - rails
